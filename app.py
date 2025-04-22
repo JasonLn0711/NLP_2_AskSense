@@ -1,10 +1,10 @@
 # %%
 from search_engine import SemanticSearchEngine
 
-searcher = SemanticSearchEngine('./data/faq_dataset_10000.txt')
+searcher = SemanticSearchEngine('./data/faq_dataset_tw_10000.txt')
 
 while True:
-    query = input("\n🔍 Enter your question (or 'eixt'):")
+    query = input("\n🔍 Enter your question (or 'exit'):")
     if query.lower() == 'exit':
         break
     results = searcher.search(query)
