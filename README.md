@@ -17,7 +17,7 @@ Unlike traditional keyword-based search, AskSense understands the **meaning** be
 
 ## 🚀 How It Works
 
-1. Loads a custom FAQ dataset from `data/faq_corpus.txt`, `data/faq_dataset_tw_10000.txt`, `data/faq_dataset_en_10000.txt` and `scam_sms_tw_10000.txt`.
+1. Loads a custom FAQ dataset from `data/faq_corpus.txt`, `data/faq_dataset_tw_10000.txt`, `data/faq_dataset_en_10000.txt` and `scam_dataset_tw_60000.txt`.
 2. Encodes each FAQ entry into a vector using `paraphrase-multilingual-MiniLM-L12-v2` (rather than `all-MiniLM-L6-v2` for only English text).
 3. Accepts a user input and encodes it as well
 4. Calculates cosine similarity between the query and every FAQ entry
