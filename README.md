@@ -30,7 +30,8 @@ Unlike traditional keyword-based search, AskSense understands the **meaning** be
 ```
 AskSense/
 ├── data/
-│   └── faq_corpus.txt         # Clean FAQ dataset (1 question per line)
+│   ├── faq_corpus.txt         # Clean FAQ dataset (1 question per line)
+│   └── faq_dataset_10000.txt  # Clean FAQ dataset (1 question per line)
 ├── search_engine.py           # Core logic: loading model and matching
 ├── app.py                     # CLI interface (or GUI integration ready)
 ├── requirements.txt
