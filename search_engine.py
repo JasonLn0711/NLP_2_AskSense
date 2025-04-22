@@ -5,7 +5,7 @@ import os
 # %%
 class SemanticSearchEngine:
     def __init__(self, corpus_path):
-        self.model = SentenceTransformer('all-MiniLM-L6-v2')
+        self.model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
         base_dir = os.path.dirname(__file__)
         full_path = os.path.join(base_dir, corpus_path)
