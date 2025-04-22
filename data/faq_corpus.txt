@@ -1,0 +1,205 @@
+How can I reset my password?
+Waht should I do if I forget my login information?
+How do I upate my billing details?
+Where can I track my order?
+What is your return policy?
+Hello.
+Good morning.
+Good afternoon.
+Good evening.
+How are you?
+I’m fine, thank you.
+What’s your name?
+My name is …
+Nice to meet you.
+How was your day?
+Have a nice day.
+See you later.
+Goodbye.
+Thank you.
+You’re welcome.
+Excuse me.
+I’m sorry.
+No problem.
+Could you help me?
+Where is the restroom?
+Where is the nearest bus stop?
+How much does this cost?
+Can I pay by credit card?
+Do you accept cash?
+I would like to order food.
+I’m allergic to nuts.
+Is this vegetarian?
+I need a doctor.
+Call the ambulance.
+I’m lost.
+Please call the police.
+I need water.
+I’m thirsty.
+I’m hungry.
+Let’s go to the supermarket.
+Where can I buy tickets?
+What time is it?
+It’s half past three.
+It’s quarter to five.
+Today is Monday.
+What’s the date today?
+Tomorrow is my birthday.
+I have an appointment.
+I have a meeting at 2 PM.
+Can you repeat that, please?
+Could you speak more slowly?
+I don’t understand.
+Please write it down.
+How do you say this in English?
+Can you show me on the map?
+Turn left.
+Turn right.
+Go straight ahead.
+Stop here.
+Is it far from here?
+It’s nearby.
+I’m looking for a hotel.
+Do you have a reservation?
+I’d like to check in.
+I’d like to check out.
+Can I have the bill, please?
+Keep the change.
+Where is the elevator?
+Which floor is the restroom on?
+Please book a taxi.
+The Wi-Fi is not working.
+What is your Wi-Fi password?
+My phone battery is low.
+I need to charge my phone.
+Can I borrow your charger?
+I lost my phone.
+I forgot my password.
+Please call me a taxi.
+Is breakfast included?
+I’d like a single room.
+I’d like a double room.
+How long will it take?
+When does the next train leave?
+Which platform?
+Does this train stop at X?
+I need a one-way ticket.
+I need a round-trip ticket.
+Can I change my ticket?
+The flight is delayed.
+The flight is cancelled.
+How much is the fare?
+Do you have any vacancies?
+I’m on vacation.
+I live in Taipei.
+I’m a student.
+I work as a teacher.
+I’m studying computer science.
+I like coffee.
+I prefer tea.
+Do you like music?
+What kind of music do you like?
+I enjoy reading books.
+My favorite book is …
+I like watching movies.
+What’s your favorite movie?
+Let’s watch a movie.
+I’m tired.
+I need to rest.
+I have a headache.
+I have a fever.
+I feel sick.
+I need medicine.
+Where is the pharmacy?
+Can I have a glass of water?
+I need to go home.
+I’m going to work.
+I’m going to school.
+I will arrive at 6 PM.
+I’ll be there soon.
+Please wait for me.
+I’m running late.
+What’s the weather like?
+It’s sunny today.
+It’s raining.
+It’s snowing.
+It’s windy.
+It’s cloudy.
+It’s hot today.
+It’s cold outside.
+Wear a jacket.
+Bring an umbrella.
+I lost my keys.
+Can you open the door?
+The door is locked.
+I need a screwdriver.
+Call a plumber.
+The sink is leaking.
+The electricity is out.
+The internet is slow.
+My computer is broken.
+The printer is jammed.
+I need a new battery.
+The light bulb is burnt out.
+The air conditioner is not working.
+Please turn off the lights.
+Please turn on the fan.
+Can you adjust the temperature?
+The water is too hot.
+The water is too cold.
+I’d like to make a reservation.
+Reservation under the name …
+I’d like a table for two.
+Do you have any specials?
+Can I see the menu?
+I have a food allergy.
+I am a vegetarian.
+I am vegan.
+Can I get this to go?
+I’d like it without onions.
+Extra cheese, please.
+No ice, please.
+More napkins, please.
+The service is excellent.
+The service is slow.
+It’s delicious.
+It’s too spicy.
+It’s too salty.
+It’s too sweet.
+I don’t like this.
+Can I have a refund?
+I need a receipt.
+Where is the bank?
+Where is the ATM?
+I need to withdraw cash.
+I need to deposit money.
+What’s the exchange rate?
+Do you have small change?
+Is there a discount?
+Can you lower the price?
+Do you have this in a different color?
+Do you have this in a different size?
+I’d like to return this.
+I’d like to exchange this.
+The fitting room is over there.
+May I try this on?
+It fits well.
+It’s too big.
+It’s too small.
+Please gift wrap this.
+Happy birthday!
+Congratulations!
+Good luck!
+Best wishes!
+Merry Christmas!
+Happy New Year!
+Enjoy your meal!
+Bon voyage!
+Happy anniversary!
+I love you.
+I miss you.
+Let’s keep in touch.
+Take care.
+Have a safe trip.
+See you tomorrow.
+Good night.
