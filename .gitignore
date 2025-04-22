@@ -13,8 +13,9 @@ ENV/
 .env
 .env.*
 
-# Jupyter notebooks checkpoints
+# Jupyter notebooks
 .ipynb_checkpoints/
+ipynb/*.ipynb
 
 # OS
 .DS_Store
